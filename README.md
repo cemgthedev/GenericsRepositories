@@ -7,7 +7,7 @@ Trabalho de Reuso de Software de um framework simples para gerenciar entidades g
 - Testes Unitários com JUnit 5: os testes unitários permitem a checagem ágil do funcionamento dos métodos que são utilizados na aplicação;
 - Utilização da biblioteca java.util.UUID e de ids como String: isto permite gerar ids mais complexos restringindo possíveis tentativas de captura de dados;
 - Utilização da biblioteca java.util.logging.Logger já no início do projeto: os logs no início do projeto permitem identificar erros ou simplesmente validar os métodos de uma forma alternativa aos testes;
-- Versionamento: o .gitignore contém o arquivo target que deve ser gerado localmente em cada máquina para garantir a execução correta da aplicação.
+- Versionamento: o .gitignore contém o arquivo target que deve ser gerado localmente em cada máquina para garantir a execução correta da aplicação. Além disso, os commits foram feitos utilizando a extensão Conventional Commits que permite maior agilidade na escrita dos commits com estrutura completa como tipo (feat, docs, refactor etc.), título e descrição.
 
 # Executar
 - Tenha o Extension Pack for Java instalado no VSCode
